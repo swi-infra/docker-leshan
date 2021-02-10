@@ -6,7 +6,7 @@ git clone https://github.com/swi-infra/leshan-bsserver-rotkey
 
 cd leshan-bsserver-rotkey
 
-git rev-parse --short HEAD
+git checkout 4e069993daed8d4dacd3704c0b3a30060946e1f3
 
 mvn clean install
 
